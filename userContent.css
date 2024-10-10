@@ -1,0 +1,4 @@
+@-moz-document domain(mastodon.social) {
+    .column[aria-label="Home"] { width: 600px !important; }
+    .media-gallery { max-height: 300px !important; }
+}
